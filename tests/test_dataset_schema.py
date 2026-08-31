@@ -1,7 +1,6 @@
 import csv
 from pathlib import Path
 
-
 DATASET_PATH = Path("data/pilot_seed.csv")
 
 EXPECTED_COLUMNS = {
